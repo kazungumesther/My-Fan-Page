@@ -4,7 +4,7 @@ export const items = [
     name: "Etsy",
     blurb: "Command Every room.",
     rating: 5,
-    emoji: "",
+    emoji: "💖",
     image:"/10th.jpg"
   },
   {
@@ -12,7 +12,7 @@ export const items = [
     name: "karla",
     blurb: "Extreme height with architectual flair.",
     rating: 5,
-    emoji: "",
+    emoji: "💃",
     image:"/Pasted image.png"
   },
   {
@@ -20,7 +20,7 @@ export const items = [
     name: "pearl",
     blurb: "Elegance meets all day comfort.",
     rating: 5,
-    emoji: "",
+    emoji: "✨",
     image:"/second shoe.jpg"
   },
   {
@@ -28,7 +28,7 @@ export const items = [
     name: "Kaey",
     blurb: "Couture inspired.",
     rating: 5,
-    emoji: "",
+    emoji: "🎀",
     image:"/8th.jpg"
   },
   {
@@ -36,7 +36,7 @@ export const items = [
     name: "YSL",
     blurb: "Fashoin-Forward.",
     rating: 5,
-    emoji: "",
+    emoji: "🔥 ",
     image:"/15th.jpg"
   },
   {
@@ -44,7 +44,7 @@ export const items = [
     name: "Salena",
     blurb: "Bold.",
     rating: 5,
-    emoji: "",
+    emoji: "⚡ ",
     image:"/6th.jpg"
   },
 
@@ -53,7 +53,7 @@ export const items = [
     name: "Luxe",
     blurb: "Quiet Luxury.",
     rating: 5,
-    emoji: "",
+    emoji: "👑",
     image:"/17th.jpg"
   },
    {
@@ -61,7 +61,7 @@ export const items = [
     name: "Cassey",
     blurb: "Unapologetic glamour.",
     rating: 5,
-    emoji: "",
+    emoji: "👌",
     image:"/4th.jpg"
   },
   {
@@ -69,7 +69,7 @@ export const items = [
     name: "Ivory",
     blurb:"Ethereal.",
     rating: 4,
-    emoji: "",
+    emoji: "⭐",
     image:"/16th.jpg"
   },
   {
@@ -77,7 +77,7 @@ export const items = [
     name: "Marcela",
     blurb: "Ultimate elegance.",
     rating: 5,
-    emoji: "",
+    emoji: "💫",
     image:"/11th.jpg"
   },
   {
@@ -85,7 +85,7 @@ export const items = [
     name: "Amardi",
     blurb: "Glamour.",
     rating: 5,
-    emoji: "",
+    emoji: "✨⭐",
     image:"/14th.jpg"
   },
   {
@@ -93,7 +93,7 @@ export const items = [
     name: "Burkae",
     blurb: "Confidence in every step.",
     rating: 5,
-    emoji: "",
+    emoji: "🪄",
     image:"/12th.jpg"
   },
 ];
