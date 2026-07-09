@@ -5,7 +5,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #e45656;
+    --background: #141010;
     --foreground: #ededed;
   }
 }
@@ -38,7 +38,7 @@ body {
 }
 
 a {
-  color: rgb(81, 201, 228);
+  color: rgb(9, 10, 10);
   text-decoration: none;
 }
 
@@ -56,7 +56,7 @@ a {
 body {
   font-family: system-ui, sans-serif;
   line-height: 1.6;
-  color: #d84e4e;
+  color: #0e0b0b;
   background: #f6f7fb;
   padding: 2rem;
 }
